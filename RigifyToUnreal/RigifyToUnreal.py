@@ -70,9 +70,9 @@
 #########################################################################
 
 #==========  CUSTOMIZATION  ===========================================
-#Must be named "Armature" so an extra root bone is not add by UE4 4.16
-newRigName = 'Armature'
-newActionNamePrefix = 'Armature_'
+#The rig must be named "Armature" in object mode so an extra root bone is not add by UE4 4.16
+newRigName = 'Unrigify'
+newActionNamePrefix = 'Unrigify_'
 newActionNameSuffix = ''
 
 #use below if you have bones added.
