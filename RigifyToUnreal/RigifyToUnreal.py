@@ -70,7 +70,7 @@
 #########################################################################
 
 #==========  CUSTOMIZATION  ===========================================
-#Change to your favorite name.
+#Must be named "Armature" so an extra root bone is not add by UE4 4.16
 newRigName = 'Armature'
 newActionNamePrefix = 'Armature_'
 newActionNameSuffix = ''
