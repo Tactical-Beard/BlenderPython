@@ -71,8 +71,8 @@
 
 #==========  CUSTOMIZATION  ===========================================
 #Change to your favorite name.
-newRigName = 'Unrigify'
-newActionNamePrefix = 'Unrigify_'
+newRigName = 'Armature'
+newActionNamePrefix = 'Armature_'
 newActionNameSuffix = ''
 
 #use below if you have bones added.
